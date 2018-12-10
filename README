@@ -1,9 +1,9 @@
-***********Mapper***********
+***********TFormat***********
 
 Introduction
 ============
 
-Mapper is a tool that select lines of a log file to analyse, separate them into
+TFormat is a tool that select lines of a log file to analyse, separate them into
 different trace files, and transform them on an easier syntax to work with.
 
 
